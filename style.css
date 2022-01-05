@@ -1,0 +1,63 @@
+body{
+    font-family: 'Island Moments', cursive;
+font-family: 'Licorice', cursive;
+font-family: 'Luxurious Roman', cursive;
+}
+.orange{
+    color: orangered;
+}
+.disply{
+        display: flex;
+        margin-bottom: 150px;
+}
+h1{
+    font-size: 60px;
+}
+h3{
+    font-size: 35px;}
+
+.Hire-me{
+    font-size: 20px;
+  text-decoration: none;
+  background-color: orangered;
+  padding: 5px;
+  border-radius: 5px;
+  background-image: linear-gradient(rgb(175, 49, 10), tomato );        
+  color: azure;
+  font-weight: 800;
+}
+.Dream{
+    padding-left: 5%;
+    width: 50%;
+}
+.Dream-bg{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.Experiences{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+   background-position: left;
+ 
+}
+.full-stack{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 60px gray;
+    border-radius: 10px;
+}
+.baby{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 60px grey;
+    border-radius: 10px;
+
+}
+
+    
+
